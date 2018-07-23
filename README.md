@@ -2,7 +2,7 @@
 TODO add more details
 
 
-*Purpose*
+### Purpose
 
 Use to assess the changes between to object trees or graphs.
 
@@ -14,14 +14,19 @@ In the future I plan to add module to help with EF, maybe following a pattern li
 https://msdn.microsoft.com/en-us/magazine/mt767693.aspx
 
 
-*IChangeTrackable*
-TODO
-*Ownership*
-TODO
-*Examples*
-TODO - see code examples
+### IChangeTrackable
 
-*Road Map (TODOS)*
+TODO
+
+### Ownership
+
+TODO
+
+### Examples
+see code examples
+TODO - add samples here
+
+### Road Map (TODOS)
 - More Documenation
 - Refactor code
 -- Naming
