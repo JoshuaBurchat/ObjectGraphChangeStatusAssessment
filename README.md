@@ -2,7 +2,8 @@
 TODO add more details
 
 
-Purpose
+*Purpose*
+
 Use to assess the changes between to object trees or graphs.
 
 Its as simple as configurating an Assessment object and then asking it to assess one object and another.
@@ -13,14 +14,14 @@ In the future I plan to add module to help with EF, maybe following a pattern li
 https://msdn.microsoft.com/en-us/magazine/mt767693.aspx
 
 
-IChangeTrackable
+*IChangeTrackable*
 TODO
-Ownership
-TOD
-Examples
+*Ownership*
+TODO
+*Examples*
 TODO - see code examples
 
-Road Map (TODOS)
+*Road Map (TODOS)*
 - More Documenation
 - Refactor code
 -- Naming
